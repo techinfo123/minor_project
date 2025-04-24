@@ -46,3 +46,4 @@ seaborn
 shap
 snowballstemmer
 wordcloud
+gunicorn 
